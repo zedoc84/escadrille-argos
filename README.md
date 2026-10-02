@@ -4,11 +4,19 @@ Vous êtes un jeune pilote embarqué sur le porte-vaisseaux Aurore face à l'Hé
 
 ## Ce qui fait l'esprit du genre
 
-Cockpit complet : radar sphérique, écran de boucliers et blindage, écran de cible avec le vaisseau en fil de fer, et écran de communication où vos interlocuteurs s'affichent quand ils parlent.
-Combat : lasers avec indicateur de visée anticipée, missiles à verrouillage, leurres contre les missiles ennemis et postcombustion.
+$$ Cockpit complet : 
+radar sphérique, écran de boucliers et blindage, écran de cible avec le vaisseau en fil de fer, et écran de communication où vos interlocuteurs s'affichent quand ils parlent.
+
+Combat : 
+lasers avec indicateur de visée anticipée, missiles à verrouillage, leurres contre les missiles ennemis et postcombustion.
+
 Un ailier différent selon les missions (Faucon, Diesel ou Vega), chacun avec sa personnalité. Vous pouvez lui donner des ordres, et même provoquer l'ennemi.
-Navigation par navpoints : l'autopilote ne s'engage que lorsque la zone est sûre, et chaque mission se termine par un appontage.
-Campagne à embranchements : si le cargo de la mission 2 est perdu, la suite change. Si vous laissez survivre le croiseur de la mission 4, il revient pour l'assaut final. La fin dépend de votre bilan, et un tableau des victoires suit les scores.
+
+Navigation par navpoints : 
+l'autopilote ne s'engage que lorsque la zone est sûre, et chaque mission se termine par un appontage.
+
+Campagne à embranchements : 
+si le cargo de la mission 2 est perdu, la suite change. Si vous laissez survivre le croiseur de la mission 4, il revient pour l'assaut final. La fin dépend de votre bilan, et un tableau des victoires suit les scores.
 
 ## Commandes principales
 
